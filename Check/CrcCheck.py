@@ -1,5 +1,5 @@
 """
-* Author: 史浩然-物联网213-215256
+* Author: Unrealfeathers
 * coding: utf-8
 * Create time: 2023-11-14 16：38
 * Function Explain: 本模块包含CRC校验的实现
